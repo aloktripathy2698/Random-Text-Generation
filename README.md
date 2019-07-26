@@ -1,2 +1,2 @@
 # Random-Text-Generation
-Random Text Generation using Donald trumps tweets
+Random Text Generation using Markov Chains and Donald trumps tweets.
